@@ -1,0 +1,12 @@
+# Folders
+.venv
+.vscode
+.pytest_cache
+.mypy_cache
+**/__pycache__
+**/tmp
+
+# Files
+playground.py
+*.txt
+*.parquet
