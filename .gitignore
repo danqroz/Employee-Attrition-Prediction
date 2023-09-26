@@ -9,4 +9,4 @@
 # Files
 playground.py
 *.txt
-*.parquet
+2*.parquet
